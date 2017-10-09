@@ -1,0 +1,18 @@
+Error: _MAIN defined in module MAIN.C is duplicated in module 17DEMO1.C
+
+ Start  Stop   Length Name               Class
+
+ 00000H 024BAH 024BBH _TEXT              CODE
+ 024C0H 02A67H 005A8H _DATA              DATA
+ 02A68H 02A6BH 00004H _EMUSEG            DATA
+ 02A6CH 02A6DH 00002H _CRTSEG            DATA
+ 02A6EH 02A6FH 00002H _CVTSEG            DATA
+ 02A70H 02A75H 00006H _SCNSEG            DATA
+ 02A76H 02ABDH 00048H _BSS               BSS
+ 02ABEH 02ABEH 00000H _BSSEND            STACK
+ 02AC0H 02B3FH 00080H _STACK             STACK
+
+Undefined symbol '_F' in module MAIN.C
+Undefined symbol '_CODE' in module MAIN.C
+Program entry point at 0000:0000
+
